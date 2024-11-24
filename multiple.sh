@@ -87,7 +87,7 @@ case $choice in
         echo -e "${YELLOW}Команда для проверки статуса ноды:${NC}"
         echo "cd ~/multipleforlinux && ./multiple-cli status"
         echo -e "${PURPLE}-----------------------------------------------------------------------${NC}"
-        echo -e "${GREEN}CRYPTO FORTOCHKA — вся крипта в одном месте!${NC}"
+        echo -e "${GREEN}SKCRYPTO BOOST — вся крипта в одном месте!${NC}"
         echo -e "${CYAN}Наш Telegram https://t.me/Skcrypto_boost${NC}"
         sleep 2
         cd ~/multipleforlinux && ./multiple-cli status
