@@ -17,8 +17,7 @@ fi
 sleep 1
 
 # Отображаем логотип
-echo -e "${CYAN}SKCRYPTO BOOST — вся крипта в одном месте!${NC}"
-echo -e "${CYAN}https://t.me/Skcrypto_boost${NC}"
+curl -s https://raw.githubusercontent.com/zenoize/helpers/refs/heads/main/boost.sh | bash
 # Меню
 echo -e "${YELLOW}Выберите действие:${NC}"
 echo -e "${CYAN}1) Установка ноды${NC}"
